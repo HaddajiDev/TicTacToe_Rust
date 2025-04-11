@@ -1,4 +1,4 @@
-# 🧠 Tic Tac Toe - Rust GUI with eframe/egui
+# Tic Tac Toe - Rust
 
 This is a simple implementation of the classic **Tic Tac Toe** game written in **Rust** using the [`eframe`](https://docs.rs/eframe/latest/eframe/) and [`egui`](https://docs.rs/egui/latest/egui/) GUI libraries.
 
